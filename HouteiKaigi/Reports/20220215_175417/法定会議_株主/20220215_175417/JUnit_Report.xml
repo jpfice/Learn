@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="法定会議_株主" time="156.5" tests="1" failures="0" errors="0">
+   <testsuite name="法定会議_株主" tests="1" failures="0" errors="0" time="156.5" skipped="0" timestamp="2022-02-15 17:54:24" hostname="jiangp01 - CXOAPC21106214.bb.local" id="Test Suites/法定会議_株主">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\jiangp01\\Katalon Studio\\HouteiKaigi\\Reports\\20220215_175417\\\u6CD5\u5B9A\u4F1A\u8B70_\u682A\u4E3B\\20220215_175417"/>
+         <property name="logFiles" value="C:\\Users\\jiangp01\\Katalon Studio\\HouteiKaigi\\Reports\\20220215_175417\\\u6CD5\u5B9A\u4F1A\u8B70_\u682A\u4E3B\\20220215_175417\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="jiangp01 - CXOAPC21106214.bb.local"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.2.5.208"/>
+         <property name="browser" value="Chrome 96.0.4664.93"/>
+         <property name="hostAddress" value="10.141.142.106"/>
+         <property name="sessionId" value="79c863c21f05b0e0b91d4cfbe640c4ae"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/JV Test Case/株主/株主P34" time="155.666" classname="Test Cases/JV Test Case/株主/株主P34" status="INCOMPLETE">
+         <system-out><![CDATA[2022-02-15 17:54:25 - [TEST_CASE][INCOMPLETE] - Test Cases/JV Test Case/株主/株主P34: null
+
+2022-02-15 17:54:25 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2022-02-15 17:54:25 - [TEST_STEP][PASSED] - println(testCaseContext.getMessage()): null
+
+2022-02-15 17:54:25 - [TEST_STEP][PASSED] - println("this is loginListener Before"): null
+
+2022-02-15 17:54:25 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2022-02-15 17:54:25 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2022-02-15 17:54:25 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2022-02-15 17:54:25 - [TEST_STEP][PASSED] - println("this is NewTestListener Before"): null
+
+2022-02-15 17:54:25 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2022-02-15 17:54:25 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2022-02-15 17:54:27 - [TEST_STEP][PASSED] - comment("自動化テスト：法定会議システム　株主P34 起動"): 自動化テスト：法定会議システム　株主P34 起動
+
+2022-02-15 17:54:27 - [MESSAGE][INFO] - 自動化テスト：法定会議システム　株主P34 起動
+
+2022-02-15 17:54:27 - [TEST_STEP][PASSED] - JvOpt.accountLogin(): Call Test Case 'Test Cases/Common Test Cases/AccountLogin' successfully
+
+2022-02-15 17:54:27 - [TEST_CASE][PASSED] - Test Cases/Common Test Cases/AccountLogin: Test Cases/Common Test Cases/AccountLogin
+
+2022-02-15 17:54:29 - [TEST_STEP][PASSED] - openBrowser(G_BaseUrl): Browser is opened with url: 'https://apps.powerapps.com/play/b1044a94-3fb8-4b9c-9054-8cd00345c66f?tenantId=77f01359-2ed0-488e-99a7-34baddce1d0e'
+
+2022-02-15 17:54:30 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-02-15 17:54:30 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-02-15 17:54:36 - [MESSAGE][PASSED] - Browser is opened with url: 'https://apps.powerapps.com/play/b1044a94-3fb8-4b9c-9054-8cd00345c66f?tenantId=77f01359-2ed0-488e-99a7-34baddce1d0e'
+
+2022-02-15 17:54:36 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-02-15 17:54:37 - [MESSAGE][PASSED] - Current window maximized
+
+2022-02-15 17:54:37 - [TEST_STEP][PASSED] - setText(findTestObject("AccountLogin/Page_/input__loginfmt"), Username): Text 'DEV01J01@c.bocb.jp' is set on object 'Object Repository/AccountLogin/Page_/input__loginfmt'
+
+2022-02-15 17:54:39 - [MESSAGE][PASSED] - Text 'DEV01J01@c.bocb.jp' is set on object 'Object Repository/AccountLogin/Page_/input__loginfmt'
+
+2022-02-15 17:54:39 - [TEST_STEP][PASSED] - click(findTestObject("AccountLogin/Page_/input__idSIButton9")): Object: 'Object Repository/AccountLogin/Page_/input__idSIButton9' is clicked on
+
+2022-02-15 17:54:39 - [MESSAGE][PASSED] - Object: 'Object Repository/AccountLogin/Page_/input__idSIButton9' is clicked on
+
+2022-02-15 17:54:39 - [TEST_STEP][PASSED] - click(findTestObject("AccountLogin/Page_- Online Service Gate/section_OSG")): Object: 'Object Repository/AccountLogin/Page_- Online Service Gate/section_OSG' is clicked on
+
+2022-02-15 17:54:43 - [MESSAGE][PASSED] - Object: 'Object Repository/AccountLogin/Page_- Online Service Gate/section_OSG' is clicked on
+
+2022-02-15 17:54:43 - [TEST_STEP][PASSED] - setText(findTestObject("AccountLogin/Page_- Online Service Gate/input__Upn"), Username): Text 'DEV01J01@c.bocb.jp' is set on object 'Object Repository/AccountLogin/Page_- Online Service Gate/input__Upn'
+
+2022-02-15 17:54:44 - [MESSAGE][PASSED] - Text 'DEV01J01@c.bocb.jp' is set on object 'Object Repository/AccountLogin/Page_- Online Service Gate/input__Upn'
+
+2022-02-15 17:54:44 - [TEST_STEP][PASSED] - click(findTestObject("AccountLogin/Page_- Online Service Gate/html_- Online Service Gate")): Object: 'Object Repository/AccountLogin/Page_- Online Service Gate/html_- Online Service Gate' is clicked on
+
+2022-02-15 17:54:45 - [MESSAGE][PASSED] - Object: 'Object Repository/AccountLogin/Page_- Online Service Gate/html_- Online Service Gate' is clicked on
+
+2022-02-15 17:54:45 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("AccountLogin/Page_- Online Service Gate/input__UpnPassword"), Password): Text ****** has been set on object 'Object Repository/AccountLogin/Page_- Online Service Gate/input__UpnPassword'
+
+2022-02-15 17:54:45 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/AccountLogin/Page_- Online Service Gate/input__UpnPassword'
+
+2022-02-15 17:54:45 - [TEST_STEP][PASSED] - click(findTestObject("AccountLogin/Page_- Online Service Gate/input__mailSignIn")): Object: 'Object Repository/AccountLogin/Page_- Online Service Gate/input__mailSignIn' is clicked on
+
+2022-02-15 17:54:47 - [MESSAGE][PASSED] - Object: 'Object Repository/AccountLogin/Page_- Online Service Gate/input__mailSignIn' is clicked on
+
+2022-02-15 17:54:47 - [TEST_STEP][PASSED] - click(findTestObject("AccountLogin/Page_/input__DontShowAgain")): Object: 'Object Repository/AccountLogin/Page_/input__DontShowAgain' is clicked on
+
+2022-02-15 17:54:48 - [MESSAGE][PASSED] - Object: 'Object Repository/AccountLogin/Page_/input__DontShowAgain' is clicked on
+
+2022-02-15 17:54:48 - [TEST_STEP][PASSED] - click(findTestObject("AccountLogin/Page_/input__idSIButton9")): Object: 'Object Repository/AccountLogin/Page_/input__idSIButton9' is clicked on
+
+2022-02-15 17:54:51 - [MESSAGE][PASSED] - Object: 'Object Repository/AccountLogin/Page_/input__idSIButton9' is clicked on
+
+2022-02-15 17:54:51 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Common Test Cases/AccountLogin' successfully
+
+2022-02-15 17:54:51 - [TEST_STEP][PASSED] - JvOpt.taskInputDepend(C_株主): Web element with id: 'Object Repository/Page_MeetingList/base_iframe' located by 'By.xpath: //iframe[@id='fullscreen-app-host']' is not present after '20' second(s)
+
+2022-02-15 17:54:51 - [TEST_CASE][PASSED] - Test Cases/Common Test Cases/TaskInputDepend: Test Cases/Common Test Cases/TaskInputDepend
+
+2022-02-15 17:54:54 - [TEST_STEP][PASSED] - comment("議題登録依頼画面  起動"): 議題登録依頼画面  起動
+
+2022-02-15 17:54:54 - [MESSAGE][INFO] - 議題登録依頼画面  起動
+
+2022-02-15 17:54:54 - [TEST_STEP][PASSED] - sdata = JvUtil.getSData(): null
+
+2022-02-15 17:54:54 - [TEST_STEP][PASSED] - binding = new groovy.lang.Binding(sdata): null
+
+2022-02-15 17:54:54 - [TEST_STEP][PASSED] - GlobalVariable.putAt("sData", binding): null
+
+2022-02-15 17:54:54 - [TEST_STEP][PASSED] - if (!(com.jv.key.JvDate.WebDriverCheck())): com.jv.key.JvDate.WebDriverCheck is PASSED
+
+2022-02-15 17:54:54 - [MESSAGE][INFO] - WebDriverCheck
+
+2022-02-15 17:54:54 - [MESSAGE][PASSED] - com.jv.key.JvDate.WebDriverCheck is PASSED
+
+2022-02-15 17:54:54 - [TEST_STEP][PASSED] - JvUtil.clickElement("Page_Top/company01", C_可点击): 元素がクリックされました。
+
+2022-02-15 17:55:00 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Top/company01' is clickable
+
+2022-02-15 17:55:00 - [MESSAGE][INFO] - 元素確認の結果　　Clickable　
+
+2022-02-15 17:55:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Top/company01' is clicked on
+
+2022-02-15 17:55:02 - [MESSAGE][INFO] - 元素がクリックされました。
+
+2022-02-15 17:55:02 - [TEST_STEP][PASSED] - comment("議題登録依頼画面へ遷移"): 議題登録依頼画面へ遷移
+
+2022-02-15 17:55:02 - [MESSAGE][INFO] - 議題登録依頼画面へ遷移
+
+2022-02-15 17:55:02 - [TEST_STEP][PASSED] - JvOpt.pageForward(C_議題登録依頼): 元素がクリックされました。
+
+2022-02-15 17:55:03 - [MESSAGE][PASSED] - Object 'Object Repository/Page_MeetingList/btn_MeetingLandDepend' is visible
+
+2022-02-15 17:55:05 - [MESSAGE][PASSED] - Object 'Object Repository/Page_MeetingList/btn_MeetingLandDepend' is clickable
+
+2022-02-15 17:55:05 - [MESSAGE][INFO] - 元素確認の結果　　Visibled　　Clickable　
+
+2022-02-15 17:55:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MeetingList/btn_MeetingLandDepend' is clicked on
+
+2022-02-15 17:55:06 - [MESSAGE][INFO] - 元素がクリックされました。
+
+2022-02-15 17:55:06 - [TEST_STEP][PASSED] - meetname = "": null
+
+2022-02-15 17:55:06 - [TEST_STEP][PASSED] - switch (MeetType): null
+
+2022-02-15 17:55:06 - [TEST_STEP][PASSED] - case "3":: null
+
+2022-02-15 17:55:06 - [TEST_STEP][PASSED] - JvOpt.setMeetType(C_株主): Object: 'Object Repository/Page_MeetingLandDepend/C_MeetType/MeetType_3' is clicked on
+
+2022-02-15 17:55:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MeetingLandDepend/C_MeetType/MeetType' is clicked on
+
+2022-02-15 17:55:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MeetingLandDepend/C_MeetType/MeetType_3' is clicked on
+
+2022-02-15 17:55:09 - [TEST_STEP][PASSED] - JvOpt.getYmd(C_株主): null
+
+2022-02-15 17:55:09 - [TEST_STEP][PASSED] - JvOpt.setMeetName(G_MeetName): Text '株主_20220215175509' is set on object 'Object Repository/Page_MeetingLandDepend/L_Present_meeting/L_input_depend_meeting_name'
+
+2022-02-15 17:55:09 - [MESSAGE][INFO] - MeetName 株主_20220215175509
+
+2022-02-15 17:55:11 - [MESSAGE][PASSED] - Text '株主_20220215175509' is set on object 'Object Repository/Page_MeetingLandDepend/L_Present_meeting/L_input_depend_meeting_name'
+
+2022-02-15 17:55:11 - [TEST_STEP][PASSED] - JvOpt.ymdSet(C_提案日): 元素がクリックされました。
+
+2022-02-15 17:55:11 - [MESSAGE][INFO] - 提案日>> 月 2
+
+2022-02-15 17:55:11 - [MESSAGE][INFO] - 提案日>> 日 17
+
+2022-02-15 17:55:11 - [MESSAGE][INFO] - 提案日>> 時 17
+
+2022-02-15 17:55:11 - [MESSAGE][INFO] - 提案日>> 分 55
+
+2022-02-15 17:55:12 - [MESSAGE][PASSED] - Object 'Object Repository/Page_MeetingLandDepend/S_Present_meeting/S_task_output_ymd' is visible
+
+2022-02-15 17:55:12 - [MESSAGE][PASSED] - Object 'Object Repository/Page_MeetingLandDepend/S_Present_meeting/S_task_output_ymd' is clickable
+
+2022-02-15 17:55:12 - [MESSAGE][INFO] - 元素確認の結果　　Visibled　　Clickable　
+
+2022-02-15 17:55:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MeetingLandDepend/S_Present_meeting/S_task_output_ymd' is clicked on
+
+2022-02-15 17:55:13 - [MESSAGE][INFO] - 元素がクリックされました。
+
+2022-02-15 17:55:14 - [MESSAGE][PASSED] - Object 'Object Repository/Page_MeetingLandDepend/calendar_ymd/cal_17' is visible
+
+2022-02-15 17:55:14 - [MESSAGE][PASSED] - Object 'Object Repository/Page_MeetingLandDepend/calendar_ymd/cal_17' is clickable
+
+2022-02-15 17:55:14 - [MESSAGE][INFO] - 元素確認の結果　　Visibled　　Clickable　
+
+2022-02-15 17:55:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MeetingLandDepend/calendar_ymd/cal_17' is clicked on
+
+2022-02-15 17:55:14 - [MESSAGE][INFO] - 元素がクリックされました。
+
+2022-02-15 17:55:15 - [MESSAGE][PASSED] - Object 'Object Repository/Page_MeetingLandDepend/calendar_meet_start_from/button_OK' is visible
+
+2022-02-15 17:55:15 - [MESSAGE][PASSED] - Object 'Object Repository/Page_MeetingLandDepend/calendar_meet_start_from/button_OK' is clickable
+
+2022-02-15 17:55:15 - [MESSAGE][INFO] - 元素確認の結果　　Visibled　　Clickable　
+
+2022-02-15 17:55:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MeetingLandDepend/calendar_meet_start_from/button_OK' is clicked on
+
+2022-02-15 17:55:16 - [MESSAGE][INFO] - 元素がクリックされました。
+
+2022-02-15 17:55:16 - [TEST_STEP][PASSED] - JvOpt.ymdSet(C_決議日): 元素がクリックされました。
+
+2022-02-15 17:55:16 - [MESSAGE][INFO] - 決議日>> 月 2
+
+2022-02-15 17:55:16 - [MESSAGE][INFO] - 決議日>> 日 19
+
+2022-02-15 17:55:16 - [MESSAGE][INFO] - 決議日>> 時 17
+
+2022-02-15 17:55:16 - [MESSAGE][INFO] - 決議日>> 分 55
+
+2022-02-15 17:55:16 - [MESSAGE][PASSED] - Object 'Object Repository/Page_MeetingLandDepend/S_Present_meeting/S_resolution_ymd' is visible
+
+2022-02-15 17:55:17 - [MESSAGE][PASSED] - Object 'Object Repository/Page_MeetingLandDepend/S_Present_meeting/S_resolution_ymd' is clickable
+
+2022-02-15 17:55:17 - [MESSAGE][INFO] - 元素確認の結果　　Visibled　　Clickable　
+
+2022-02-15 17:55:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MeetingLandDepend/S_Present_meeting/S_resolution_ymd' is clicked on
+
+2022-02-15 17:55:17 - [MESSAGE][INFO] - 元素がクリックされました。
+
+2022-02-15 17:55:18 - [MESSAGE][PASSED] - Object 'Object Repository/Page_MeetingLandDepend/calendar_ymd/cal_19' is visible
+
+2022-02-15 17:55:18 - [MESSAGE][PASSED] - Object 'Object Repository/Page_MeetingLandDepend/calendar_ymd/cal_19' is clickable
+
+2022-02-15 17:55:18 - [MESSAGE][INFO] - 元素確認の結果　　Visibled　　Clickable　
+
+2022-02-15 17:55:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MeetingLandDepend/calendar_ymd/cal_19' is clicked on
+
+2022-02-15 17:55:19 - [MESSAGE][INFO] - 元素がクリックされました。
+
+2022-02-15 17:55:19 - [MESSAGE][PASSED] - Object 'Object Repository/Page_MeetingLandDepend/calendar_meet_start_from/button_OK' is visible
+
+2022-02-15 17:55:19 - [MESSAGE][PASSED] - Object 'Object Repository/Page_MeetingLandDepend/calendar_meet_start_from/button_OK' is clickable
+
+2022-02-15 17:55:19 - [MESSAGE][INFO] - 元素確認の結果　　Visibled　　Clickable　
+
+2022-02-15 17:55:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MeetingLandDepend/calendar_meet_start_from/button_OK' is clicked on
+
+2022-02-15 17:55:20 - [MESSAGE][INFO] - 元素がクリックされました。
+
+2022-02-15 17:55:20 - [TEST_STEP][PASSED] - JvOpt.ymdSet(C_議題登録期限): 元素がクリックされました。
+
+2022-02-15 17:55:20 - [MESSAGE][INFO] - 議題登録期限>> 月 3
+
+2022-02-15 17:55:20 - [MESSAGE][INFO] - 議題登録期限>> 日 18
+
+2022-02-15 17:55:20 - [MESSAGE][INFO] - 議題登録期限>> 時 17
+
+2022-02-15 17:55:20 - [MESSAGE][INFO] - 議題登録期限>> 分 55
+
+2022-02-15 17:55:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MeetingLandDepend/S_Present_meeting/S_btn_task_land_day' is clicked on
+
+2022-02-15 17:55:21 - [MESSAGE][PASSED] - Object 'Object Repository/Page_MeetingLandDepend/calendar_ymd/cal_18' is visible
+
+2022-02-15 17:55:21 - [MESSAGE][PASSED] - Object 'Object Repository/Page_MeetingLandDepend/calendar_ymd/cal_18' is clickable
+
+2022-02-15 17:55:21 - [MESSAGE][INFO] - 元素確認の結果　　Visibled　　Clickable　
+
+2022-02-15 17:55:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MeetingLandDepend/calendar_ymd/cal_18' is clicked on
+
+2022-02-15 17:55:22 - [MESSAGE][INFO] - 元素がクリックされました。
+
+2022-02-15 17:55:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MeetingLandDepend/calendar_meet_start_from/button_OK' is clicked on
+
+2022-02-15 17:55:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MeetingLandDepend/S_Present_meeting/S_dropdown_Hort' is clicked on
+
+2022-02-15 17:55:24 - [MESSAGE][PASSED] - Object 'Object Repository/Page_MeetingLandDepend/S_Present_meeting/Cal_TaskInputLimit/H_17' is visible
+
+2022-02-15 17:55:24 - [MESSAGE][PASSED] - Object 'Object Repository/Page_MeetingLandDepend/S_Present_meeting/Cal_TaskInputLimit/H_17' is clickable
+
+2022-02-15 17:55:24 - [MESSAGE][INFO] - 元素確認の結果　　Visibled　　Clickable　
+
+2022-02-15 17:55:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MeetingLandDepend/S_Present_meeting/Cal_TaskInputLimit/H_17' is clicked on
+
+2022-02-15 17:55:24 - [MESSAGE][INFO] - 元素がクリックされました。
+
+2022-02-15 17:55:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MeetingLandDepend/S_Present_meeting/S_dropdown_Minute' is clicked on
+
+2022-02-15 17:55:26 - [MESSAGE][PASSED] - Object 'Object Repository/Page_MeetingLandDepend/S_Present_meeting/Cal_TaskInputLimit/M_55' is visible
+
+2022-02-15 17:55:26 - [MESSAGE][PASSED] - Object 'Object Repository/Page_MeetingLandDepend/S_Present_meeting/Cal_TaskInputLimit/M_55' is clickable
+
+2022-02-15 17:55:26 - [MESSAGE][INFO] - 元素確認の結果　　Visibled　　Clickable　
+
+2022-02-15 17:55:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MeetingLandDepend/S_Present_meeting/Cal_TaskInputLimit/M_55' is clicked on
+
+2022-02-15 17:55:26 - [MESSAGE][INFO] - 元素がクリックされました。
+
+2022-02-15 17:55:26 - [TEST_STEP][PASSED] - JvOpt.ymdSet(C_資料提出期限): Object: 'Object Repository/Page_MeetingLandDepend/S_Present_meeting/Cal_FileOutPutLimit/file_M_59' is clicked on
+
+2022-02-15 17:55:26 - [MESSAGE][INFO] - 資料提出期限日>> 月 2
+
+2022-02-15 17:55:26 - [MESSAGE][INFO] - 資料提出期限>> 日 18
+
+2022-02-15 17:55:26 - [MESSAGE][INFO] - 資料提出期限>> 時 17
+
+2022-02-15 17:55:26 - [MESSAGE][INFO] - 資料提出期限>> 分 55
+
+2022-02-15 17:55:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MeetingLandDepend/calendar_file_output_day/calendar' is clicked on
+
+2022-02-15 17:55:28 - [MESSAGE][PASSED] - Object 'Object Repository/Page_MeetingLandDepend/calendar_ymd/cal_18' is visible
+
+2022-02-15 17:55:28 - [MESSAGE][PASSED] - Object 'Object Repository/Page_MeetingLandDepend/calendar_ymd/cal_18' is clickable
+
+2022-02-15 17:55:28 - [MESSAGE][INFO] - 元素確認の結果　　Visibled　　Clickable　
+
+2022-02-15 17:55:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MeetingLandDepend/calendar_ymd/cal_18' is clicked on
+
+2022-02-15 17:55:29 - [MESSAGE][INFO] - 元素がクリックされました。
+
+2022-02-15 17:55:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MeetingLandDepend/calendar_meet_start_from/button_OK' is clicked on
+
+2022-02-15 17:55:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MeetingLandDepend/S_Present_meeting/S_dropdown_file_Hort' is clicked on
+
+2022-02-15 17:55:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MeetingLandDepend/S_Present_meeting/Cal_FileOutPutLimit/file_H_17' is clicked on
+
+2022-02-15 17:55:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MeetingLandDepend/S_Present_meeting/S_dropdown_file_Minute' is clicked on
+
+2022-02-15 17:55:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MeetingLandDepend/S_Present_meeting/Cal_FileOutPutLimit/file_M_59' is clicked on
+
+2022-02-15 17:55:32 - [TEST_STEP][PASSED] - comment("自動リマインドの選択"): 自動リマインドの選択
+
+2022-02-15 17:55:32 - [MESSAGE][INFO] - 自動リマインドの選択
+
+2022-02-15 17:55:32 - [TEST_STEP][PASSED] - click(findTestObject("Page_MeetingLandDepend/switch_autoRemaind")): Object: 'Object Repository/Page_MeetingLandDepend/switch_autoRemaind' is clicked on
+
+2022-02-15 17:55:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MeetingLandDepend/switch_autoRemaind' is clicked on
+
+2022-02-15 17:55:32 - [TEST_STEP][PASSED] - click(findTestObject("Page_MeetingLandDepend/L_Present_meeting/L_btn_mail_set")): Object: 'Object Repository/Page_MeetingLandDepend/L_Present_meeting/L_btn_mail_set' is clicked on
+
+2022-02-15 17:55:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MeetingLandDepend/L_Present_meeting/L_btn_mail_set' is clicked on
+
+2022-02-15 17:55:33 - [TEST_STEP][PASSED] - jvWait(8): null
+
+2022-02-15 17:55:33 - [TEST_STEP][PASSED] - delay(second): null
+
+2022-02-15 17:55:41 - [MESSAGE][PASSED] - Delayed 8 second(s)
+
+2022-02-15 17:55:41 - [TEST_STEP][PASSED] - click(findTestObject("Page_MeetingLandDepend/L_Present_meeting/L_btn_temporary_save")): Object: 'Object Repository/Page_MeetingLandDepend/L_Present_meeting/L_btn_temporary_save' is clicked on
+
+2022-02-15 17:55:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MeetingLandDepend/L_Present_meeting/L_btn_temporary_save' is clicked on
+
+2022-02-15 17:55:42 - [TEST_STEP][PASSED] - JvOpt.dependHaveOrNo(C_依頼あり): Unable to find the element located by 'By.xpath: //div[@data-control-name="MR_MCC_続けるボタン_書面"]//div[text()="続ける"]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-02-15 17:55:53 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@data-control-name="MR_送信ボタン_書面"]//button'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-02-15 17:56:05 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[text()="閉じる"]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-02-15 17:56:16 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@data-control-name="MR_送信ボタン_書面"]//button'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-02-15 17:56:27 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@data-control-name="MR_MCC_続けるボタン_書面"]//div[text()="続ける"]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-02-15 17:56:27 - [TEST_STEP][PASSED] - break: null
+
+2022-02-15 17:56:27 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Common Test Cases/TaskInputDepend' successfully
+
+2022-02-15 17:56:32 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2022-02-15 17:56:33 - [MESSAGE][PASSED] - Web element with id: 'Object Repository/Page_MeetingList/base_iframe' located by 'By.xpath: //iframe[@id='fullscreen-app-host']' is not present after '20' second(s)
+
+2022-02-15 17:56:33 - [TEST_STEP][PASSED] - JvKOpt.autoRemind(C_OFF): Unable to find the element located by 'By.xpath: //div[@data-control-name="自動リマインド_DataCard2"]//div[@role="switch"]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-02-15 17:56:44 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@data-control-name="自動リマインド_DataCard2"]//div[@role="switch"]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-02-15 17:56:44 - [TEST_STEP][PASSED] - JvKOpt.meetInfoUpdate(L_会議情報更新): Delayed 5 second(s)
+
+2022-02-15 17:56:55 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@data-control-name="MD_ヘッダー登録ボタン"]//button'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-02-15 17:57:00 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2022-02-15 17:57:00 - [TEST_STEP][INCOMPLETE] - JvOpt.taskInput(C_新ユーザー議題追加, "4"): ---->> 議題ありの場合
+
+2022-02-15 17:57:00 - [MESSAGE][INFO] - ---->> 議題ありの場合]]></system-out>
+         <system-err><![CDATA[2022-02-15 17:54:25 - [TEST_CASE][INCOMPLETE] - Test Cases/JV Test Case/株主/株主P34: null]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-02-15 17:54:24 - [TEST_SUITE][INCOMPLETE] - 法定会議_株主: null]]></system-out>
+      <system-err><![CDATA[2022-02-15 17:54:24 - [TEST_SUITE][INCOMPLETE] - 法定会議_株主: null]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,128 @@
+{
+  "keywordFileContentHash": "872FE6010A97D952566D92D175BD6C42",
+  "keywordClasses": [
+    {
+      "name": "com.jv.key.JvSOpt",
+      "keywordMethods": [
+        {
+          "name": "getAnswerType",
+          "parameters": [
+            {
+              "name": "model",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n\t * Check if element present in timeout\n\t * @param to Katalon test object\n\t * @param timeout time to wait for element to show up\n\t * @return 取締役/監査役\n\t */"
+        },
+        {
+          "name": "checkAnswerType",
+          "parameters": [
+            {
+              "name": "model",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "AnswerType",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n\t * Check if element present in timeout\n\t * @param to Katalon test object\n\t * @param timeout time to wait for element to show up\n\t * @return 取締役/監査役\n\t */"
+        },
+        {
+          "name": "checkRole",
+          "parameters": [
+            {
+              "name": "model",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "AnswerType",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n\t * Check if element present in timeout\n\t * @param to Katalon test object\n\t * @param timeout time to wait for element to show up\n\t * @return 取締役/監査役\n\t */"
+        },
+        {
+          "name": "getAnswerTypeClick",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "ReportBook",
+          "parameters": [
+            {
+              "name": "ReportType",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n\t * Function 可決報告と否決報告の処理\n\t * @param TestObject\n\t * @param TimeOut\n\t * @return All rows inside HTML table\n\t */"
+        },
+        {
+          "name": "canReportBook",
+          "parameters": [],
+          "javadoc": "/**\n\t * Function 可決報告の処理\n\t * @param TestObject\n\t * @param TimeOut\n\t * @return All rows inside HTML table\n\t */"
+        },
+        {
+          "name": "canNotReportBook",
+          "parameters": [],
+          "javadoc": "/**\n\t * Function 否決報告の処理\n\t * @param TestObject\n\t * @param TimeOut\n\t * @return All rows inside HTML table\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>K_R1_companyName</name>
+   <tag></tag>
+   <elementGuidId>06b6fe85-eb44-428e-b027-29d51c21eaee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@data-control-name=&quot;MD_書_株主ギャラリー&quot;]//div[@aria-posinset=&quot;1&quot;]//div[@data-control-name=&quot;MD_AG_ソート番号_4&quot;]//input[@appmagic-control=&quot;MD_AG_ソート番号_4textbox&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-control-name=&quot;MD_書_株主ギャラリー&quot;]//div[@aria-posinset=&quot;1&quot;]//div[@data-control-name=&quot;MD_AG_ソート番号_4&quot;]//input[@appmagic-control=&quot;MD_AG_ソート番号_4textbox&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

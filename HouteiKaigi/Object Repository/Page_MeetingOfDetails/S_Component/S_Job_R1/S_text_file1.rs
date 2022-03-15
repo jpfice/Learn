@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>S_text_file1</name>
+   <tag></tag>
+   <elementGuidId>d5c524b9-2734-4469-8ddb-cb8495b441aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@data-control-name=&quot;MD_書_役員ギャラリー&quot;]//div[@aria-posinset=&quot;1&quot;]//div[@data-control-name=&quot;MD_書_役員_ファイルDL&quot;]//div[@data-control-part=&quot;text&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-control-name=&quot;MD_書_役員ギャラリー&quot;]//div[@aria-posinset=&quot;1&quot;]//div[@data-control-name=&quot;MD_書_役員_ファイルDL&quot;]//div[@data-control-part=&quot;text&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

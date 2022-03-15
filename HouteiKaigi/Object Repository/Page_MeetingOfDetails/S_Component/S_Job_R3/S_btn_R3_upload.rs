@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>S_btn_R3_upload</name>
+   <tag></tag>
+   <elementGuidId>f9a1ab49-8be2-464e-8954-98d8a8170d28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@data-control-name=&quot;MD_書_役員ギャラリー&quot;]//div[@aria-posinset=&quot;3&quot;]//div[text()=&quot;アップロード&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-control-name=&quot;MD_書_役員ギャラリー&quot;]//div[@aria-posinset=&quot;3&quot;]//div[text()=&quot;アップロード&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

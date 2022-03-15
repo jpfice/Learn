@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint2</name>
+   <tag></tag>
+   <excel-source-info>
+      <is-from-test-data>false</is-from-test-data>
+      <source-url>C:\Users\jiangp01\Desktop\JvTestData01.xlsx</source-url>
+      <source-type>ExcelFile</source-type>
+      <sheet-name-or-separator>TestData1</sheet-name-or-separator>
+      <is-using-relative-path>false</is-using-relative-path>
+      <is-using-first-row-as-header>true</is-using-first-row-as-header>
+   </excel-source-info>
+   <taken-date>2022-01-19T11:12:20.114</taken-date>
+   <column-names>
+      <column-name>JVName</column-name>
+      <column-name>Field</column-name>
+      <column-name>P1</column-name>
+      <column-name>P2</column-name>
+      <column-name>P3</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "JV会議種別",
+      "checked": true
+    },
+    {
+      "value": "meetType",
+      "checked": true
+    },
+    {
+      "value": "臨場",
+      "checked": true
+    },
+    {
+      "value": "書面",
+      "checked": true
+    },
+    {
+      "value": "株主",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "JV会議名",
+      "checked": true
+    },
+    {
+      "value": "meetName",
+      "checked": true
+    },
+    {
+      "value": "臨場_",
+      "checked": true
+    },
+    {
+      "value": "書面_",
+      "checked": false
+    },
+    {
+      "value": "株主_",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "JV開催日時From",
+      "checked": true
+    },
+    {
+      "value": "meetFromYmd",
+      "checked": true
+    },
+    {
+      "value": "20220107",
+      "checked": true
+    },
+    {
+      "value": "20220107",
+      "checked": true
+    },
+    {
+      "value": "20220107",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "JV開催日時To",
+      "checked": true
+    },
+    {
+      "value": "meetToYmd",
+      "checked": true
+    },
+    {
+      "value": "20220107",
+      "checked": true
+    },
+    {
+      "value": "20220107",
+      "checked": true
+    },
+    {
+      "value": "20220107",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "JVステータス",
+      "checked": true
+    },
+    {
+      "value": "meetStatus",
+      "checked": true
+    },
+    {
+      "value": "",
+      "checked": true
+    },
+    {
+      "value": "",
+      "checked": true
+    },
+    {
+      "value": "",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "JV議題登録期限",
+      "checked": true
+    },
+    {
+      "value": "taskInputTimeLimit",
+      "checked": true
+    },
+    {
+      "value": "20220107",
+      "checked": true
+    },
+    {
+      "value": "20220107",
+      "checked": true
+    },
+    {
+      "value": "20220107",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "JV資料提出期限",
+      "checked": true
+    },
+    {
+      "value": "fileInputTimeLimit",
+      "checked": true
+    },
+    {
+      "value": "20220107",
+      "checked": true
+    },
+    {
+      "value": "20220107",
+      "checked": true
+    },
+    {
+      "value": "20220107",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "JV自動リマインド",
+      "checked": true
+    },
+    {
+      "value": "btnAutoRemind",
+      "checked": true
+    },
+    {
+      "value": "on",
+      "checked": false
+    },
+    {
+      "value": "off",
+      "checked": true
+    },
+    {
+      "value": "on",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "JV一時保存",
+      "checked": true
+    },
+    {
+      "value": "btnTempSave",
+      "checked": true
+    },
+    {
+      "value": "on",
+      "checked": false
+    },
+    {
+      "value": "off",
+      "checked": true
+    },
+    {
+      "value": "on",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "JVメール設定",
+      "checked": true
+    },
+    {
+      "value": "btnMailSet",
+      "checked": true
+    },
+    {
+      "value": "on",
+      "checked": true
+    },
+    {
+      "value": "off",
+      "checked": true
+    },
+    {
+      "value": "on",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "JVTo",
+      "checked": true
+    },
+    {
+      "value": "mailTo",
+      "checked": true
+    },
+    {
+      "value": "",
+      "checked": true
+    },
+    {
+      "value": "",
+      "checked": true
+    },
+    {
+      "value": "",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "JV件名",
+      "checked": true
+    },
+    {
+      "value": "mailName",
+      "checked": true
+    },
+    {
+      "value": "",
+      "checked": true
+    },
+    {
+      "value": "",
+      "checked": true
+    },
+    {
+      "value": "",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "JV本文",
+      "checked": true
+    },
+    {
+      "value": "mailContent",
+      "checked": true
+    },
+    {
+      "value": "",
+      "checked": true
+    },
+    {
+      "value": "",
+      "checked": true
+    },
+    {
+      "value": "",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "JV戻る",
+      "checked": true
+    },
+    {
+      "value": "btnback",
+      "checked": true
+    },
+    {
+      "value": "",
+      "checked": true
+    },
+    {
+      "value": "",
+      "checked": true
+    },
+    {
+      "value": "",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "JV議題登録依頼あり",
+      "checked": true
+    },
+    {
+      "value": "btnTaskHave",
+      "checked": true
+    },
+    {
+      "value": "on",
+      "checked": true
+    },
+    {
+      "value": "off",
+      "checked": true
+    },
+    {
+      "value": "on",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "JV議題登録依頼なし",
+      "checked": true
+    },
+    {
+      "value": "btnTaskNotHave",
+      "checked": true
+    },
+    {
+      "value": "off",
+      "checked": true
+    },
+    {
+      "value": "off",
+      "checked": true
+    },
+    {
+      "value": "on",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

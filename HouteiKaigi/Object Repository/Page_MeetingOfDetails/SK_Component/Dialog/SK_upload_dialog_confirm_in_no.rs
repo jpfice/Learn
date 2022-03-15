@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SK_upload_dialog_confirm_in_no</name>
+   <tag></tag>
+   <elementGuidId>f5dbb283-ef26-448a-8d59-206257fc985a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@role=&quot;listbox&quot;]//div[text()=&quot;確認書押印無し&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@role=&quot;listbox&quot;]//div[text()=&quot;確認書押印無し&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

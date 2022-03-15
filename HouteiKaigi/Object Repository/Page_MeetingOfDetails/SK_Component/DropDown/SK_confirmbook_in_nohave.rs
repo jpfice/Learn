@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SK_confirmbook_in_nohave</name>
+   <tag></tag>
+   <elementGuidId>69be152d-5cde-4d27-9412-7e6a51a4ae5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@role=&quot;listbox&quot;]//div[text()=&quot;議事録押印無し&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@role=&quot;listbox&quot;]//div[text()=&quot;議事録押印無し&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

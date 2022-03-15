@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>S_btn_task_file_update_YES</name>
+   <tag></tag>
+   <elementGuidId>2ec80df3-5051-4a80-9d66-bd476abc2d68</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@data-control-name=&quot;MD_M_書_議題資料更新確認_はいボタン&quot;]//button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-control-name=&quot;MD_M_書_議題資料更新確認_はいボタン&quot;]//button</value>
+   </webElementProperties>
+</WebElementEntity>

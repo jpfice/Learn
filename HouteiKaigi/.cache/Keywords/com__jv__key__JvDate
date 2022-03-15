@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "E553A52BEA29B59BD033A80B488E64AA",
+  "keywordClasses": [
+    {
+      "name": "com.jv.key.JvDate",
+      "keywordMethods": [
+        {
+          "name": "WebDriverCheck",
+          "parameters": [],
+          "javadoc": "/**\n\t * Refresh browser\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

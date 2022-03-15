@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>L_input_task_land_day</name>
+   <tag></tag>
+   <elementGuidId>72481d76-98a0-4173-820f-d1a5a919e558</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='publishedCanvas']/div/div[4]/div/div/div[12]/div/div/div/div/div/div/div/div/div[8]/div/div/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>appmagic-borderfill-container</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;publishedCanvas&quot;)/div[@class=&quot;app-canvas&quot;]/div[@class=&quot;screen-animation animated&quot;]/div[@class=&quot;canvasContentDiv container_1ej5chb activeScreen&quot;]/div[@class=&quot;container_1f0sgyp-o_O-containerFullSize_5t8a34&quot;]/div[@class=&quot;appmagic-content-control-name appmagic-control-view canvasContentDiv&quot;]/div[@class=&quot;appmagic-borderfill-container&quot;]/div[@class=&quot;appmagic-border-inner&quot;]/div[@class=&quot;container_w3lqqm accessibility-container&quot;]/div[@class=&quot;powerapps-form form_ctz3yu no-focus-outline&quot;]/div[@class=&quot;scrollContainer_1qq79qh-o_O-scrollbar_1te65uz&quot;]/div[@class=&quot;scrollContent_1xligvk&quot;]/div[@class=&quot;scrollContent_1xligvk&quot;]/div[@class=&quot;powerapps-form-item formItem_1qwr9le&quot;]/div[@class=&quot;appmagic-content-control-name appmagic-control-view canvasContentDiv&quot;]/div[@class=&quot;appmagic-borderfill-container&quot;]/div[@class=&quot;appmagic-border-inner appmagic-auto-height&quot;]/div[@class=&quot;appmagic-typed-card card_c5uw0h&quot;]/div[@class=&quot;appmagic-content-control-name appmagic-control-view canvasContentDiv _vst_&quot;]/div[@class=&quot;appmagic-borderfill-container&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_MeetingLandDepend/iframe/iframe__fullscreen-app-host</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='publishedCanvas']/div/div[4]/div/div/div[12]/div/div/div/div/div/div/div/div/div[8]/div/div/div/div[3]/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='議題登録期限'])[1]/following::div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[10]/following::div[8]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[3]/preceding::div[13]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[11]/preceding::div[33]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div/div[3]/div</value>
+   </webElementXpaths>
+</WebElementEntity>

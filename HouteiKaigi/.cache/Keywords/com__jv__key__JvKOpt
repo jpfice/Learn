@@ -1,0 +1,40 @@
+{
+  "keywordFileContentHash": "E5DFAE0D9878FEF54EAA989B6D395094",
+  "keywordClasses": [
+    {
+      "name": "com.jv.key.JvKOpt",
+      "keywordMethods": [
+        {
+          "name": "ReportBook",
+          "parameters": [
+            {
+              "name": "ReportType",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n\t * Function 可決報告と否決報告の処理\n\t * @param TestObject\n\t * @param TimeOut\n\t * @return All rows inside HTML table\n\t */"
+        },
+        {
+          "name": "canReportBook",
+          "parameters": [],
+          "javadoc": "/**\n\t * Function 可決報告の処理\n\t * @param TestObject\n\t * @param TimeOut\n\t * @return All rows inside HTML table\n\t */"
+        },
+        {
+          "name": "canNotReportBook",
+          "parameters": [],
+          "javadoc": "/**\n\t * Function 否決報告の処理\n\t * @param TestObject\n\t * @param TimeOut\n\t * @return All rows inside HTML table\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

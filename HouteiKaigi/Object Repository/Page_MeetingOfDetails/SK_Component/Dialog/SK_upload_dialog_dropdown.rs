@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SK_upload_dialog_dropdown</name>
+   <tag></tag>
+   <elementGuidId>fc61e7b5-1c45-4b9c-b249-e262ac5b3037</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@data-control-name=&quot;MD_書同意書M_ファイルDropList&quot;]//div[@class=&quot;appmagic-dropdownLabelArrow&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-control-name=&quot;MD_書同意書M_ファイルDropList&quot;]//div[@class=&quot;appmagic-dropdownLabelArrow&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

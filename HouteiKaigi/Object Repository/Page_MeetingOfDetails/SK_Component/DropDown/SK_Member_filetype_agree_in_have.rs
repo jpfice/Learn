@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SK_Member_filetype_agree_in_have</name>
+   <tag></tag>
+   <elementGuidId>e03863bb-9be3-42d9-89ca-62d9d76a4455</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@data-control-name=&quot;MD_書_役員ギャラリー&quot;]//div[text()=&quot;同意書押印有り&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-control-name=&quot;MD_書_役員ギャラリー&quot;]//div[text()=&quot;同意書押印有り&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

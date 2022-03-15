@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown_TaskInNotHave</name>
+   <tag></tag>
+   <elementGuidId>d6075417-bc3e-4cfb-a9cb-9dc0d2054b8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class=&quot;drop-content&quot;]//div[text()=&quot;議事録押印無し&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class=&quot;drop-content&quot;]//div[text()=&quot;議事録押印無し&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

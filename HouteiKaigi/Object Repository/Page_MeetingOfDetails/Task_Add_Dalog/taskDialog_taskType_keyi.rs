@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>taskDialog_taskType_keyi</name>
+   <tag></tag>
+   <elementGuidId>dc800f8e-b63f-4a14-b843-a052bd6ef638</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@role=&quot;listbox&quot;]//div[text()=&quot;決議&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@role=&quot;listbox&quot;]//div[text()=&quot;決議&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

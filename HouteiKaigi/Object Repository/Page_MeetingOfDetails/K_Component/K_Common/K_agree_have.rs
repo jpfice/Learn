@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>K_agree_have</name>
+   <tag></tag>
+   <elementGuidId>ba1ca6dc-6f8f-4e47-ab76-216ee2442b05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@role=&quot;listbox&quot;]//div[text()=&quot;同意&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@role=&quot;listbox&quot;]//div[text()=&quot;同意&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

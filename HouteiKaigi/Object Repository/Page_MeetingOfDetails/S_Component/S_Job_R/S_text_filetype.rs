@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>S_text_filetype</name>
+   <tag></tag>
+   <elementGuidId>338428b4-c41e-4212-973d-058c162cb6c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@data-control-name=&quot;MD_書_役員ギャラリー&quot;]//div[@aria-posinset=&quot;${GlobalVariable.G_RowNum}&quot;]//div[@data-control-name=&quot;Dropdown2&quot;]//div[@class=&quot;appmagic-dropdownLabelArrow&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-control-name=&quot;MD_書_役員ギャラリー&quot;]//div[@aria-posinset=&quot;${GlobalVariable.G_RowNum}&quot;]//div[@data-control-name=&quot;Dropdown2&quot;]//div[@class=&quot;appmagic-dropdownLabelArrow&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

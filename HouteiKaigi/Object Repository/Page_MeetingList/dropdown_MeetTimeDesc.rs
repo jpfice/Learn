@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown_MeetTimeDesc</name>
+   <tag></tag>
+   <elementGuidId>7d943adf-6a4a-4363-b0a6-60fe966876c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@data-drop-id=&quot;0&quot;]//div[@role=&quot;listbox&quot;]//div[text()=&quot;開催日時降順&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-drop-id=&quot;0&quot;]//div[@role=&quot;listbox&quot;]//div[text()=&quot;開催日時降順&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_MeetingList/base_iframe</value>
+   </webElementProperties>
+</WebElementEntity>

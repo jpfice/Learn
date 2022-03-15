@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>S_diff_have</name>
+   <tag></tag>
+   <elementGuidId>47fb15f2-3cce-4aed-a583-71c641a263a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@role=&quot;listbox&quot;]//div[text()=&quot;異議あり&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@role=&quot;listbox&quot;]//div[text()=&quot;異議あり&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

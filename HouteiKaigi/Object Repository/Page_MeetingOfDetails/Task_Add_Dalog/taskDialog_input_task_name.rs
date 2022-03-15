@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>taskDialog_input_task_name</name>
+   <tag></tag>
+   <elementGuidId>5a147143-44b6-49b6-8679-0d5d035b7613</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@data-control-name=&quot;MD_議題登録情報Form&quot;]//div[@data-control-name=&quot;議題_DataCard1&quot;]//input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-control-name=&quot;MD_議題登録情報Form&quot;]//div[@data-control-name=&quot;議題_DataCard1&quot;]//input</value>
+   </webElementProperties>
+</WebElementEntity>

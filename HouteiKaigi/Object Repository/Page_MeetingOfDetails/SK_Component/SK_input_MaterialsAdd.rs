@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SK_input_MaterialsAdd</name>
+   <tag></tag>
+   <elementGuidId>d823a02f-6c40-427b-aefc-48f9564015b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@data-control-name=&quot;添付ファイル_DataCard3_8&quot;]//input[@type=&quot;file&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-control-name=&quot;添付ファイル_DataCard3_8&quot;]//input[@type=&quot;file&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

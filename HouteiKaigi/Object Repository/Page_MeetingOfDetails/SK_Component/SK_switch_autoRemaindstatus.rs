@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SK_switch_autoRemaindstatus</name>
+   <tag></tag>
+   <elementGuidId>242ab961-a9b6-45e9-a4a6-ac8a58e33e1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@data-control-name=&quot;自動リマインド_DataCard2&quot;]//div[@role=&quot;switch&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-control-name=&quot;自動リマインド_DataCard2&quot;]//div[@role=&quot;switch&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

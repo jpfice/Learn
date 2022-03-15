@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_R1_taskEdit</name>
+   <tag></tag>
+   <elementGuidId>2ab88251-4f73-4f14-9012-fd9eb5f59dfe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@data-control-name=&quot;MD_議題ギャラリー&quot;]//div[@aria-posinset=&quot;1&quot;]//div[@data-control-name=&quot;MD_AG_編集ボタン&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-control-name=&quot;MD_議題ギャラリー&quot;]//div[@aria-posinset=&quot;1&quot;]//div[@data-control-name=&quot;MD_AG_編集ボタン&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>S_btn_R4_job</name>
+   <tag></tag>
+   <elementGuidId>1d871c44-d2b7-4bcf-ac0a-54b9a8e1fdd5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@data-control-name=&quot;MD_書_役員ギャラリー&quot;]//div[@aria-posinset=&quot;4&quot;]//div[@data-control-name=&quot;MD_AG_ソート番号_2&quot;]//input[@appmagic-control=&quot;MD_AG_ソート番号_2textbox&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-control-name=&quot;MD_書_役員ギャラリー&quot;]//div[@aria-posinset=&quot;4&quot;]//div[@data-control-name=&quot;MD_AG_ソート番号_2&quot;]//input[@appmagic-control=&quot;MD_AG_ソート番号_2textbox&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

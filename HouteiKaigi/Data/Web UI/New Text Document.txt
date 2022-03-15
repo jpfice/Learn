@@ -1,0 +1,2 @@
+S_会議種類 = "Page_MeetingLandDepend/C_MeetType/MeetType";
+S_取締役会_書面 = "Page_MeetingLandDepend/C_MeetType/MeetType_2";

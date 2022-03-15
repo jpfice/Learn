@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>calendar</name>
+   <tag></tag>
+   <elementGuidId>794e009b-1d62-47ea-b223-d0506a94289b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class=&quot;appmagic-datepicker-control&quot;]//input[@title=&quot;資料提出期限&quot;]/following::div[@class=&quot;appmagic-datepicker-icon&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class=&quot;appmagic-datepicker-control&quot;]//input[@title=&quot;資料提出期限&quot;]/following::div[@class=&quot;appmagic-datepicker-icon&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_MeetingLandDepend/iframe/iframe__fullscreen-app-host</value>
+   </webElementProperties>
+</WebElementEntity>

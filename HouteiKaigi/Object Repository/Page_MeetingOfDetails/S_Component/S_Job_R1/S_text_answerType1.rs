@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>S_text_answerType1</name>
+   <tag></tag>
+   <elementGuidId>bde66c9d-2a0c-479e-b65e-4d6ef24faf8e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@data-control-name=&quot;MD_書_役員ギャラリー&quot;]//div[@aria-posinset=&quot;1&quot;]//div[@data-control-name=&quot;Button1&quot;]//div[@data-control-part=&quot;text&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-control-name=&quot;MD_書_役員ギャラリー&quot;]//div[@aria-posinset=&quot;1&quot;]//div[@data-control-name=&quot;Button1&quot;]//div[@data-control-part=&quot;text&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

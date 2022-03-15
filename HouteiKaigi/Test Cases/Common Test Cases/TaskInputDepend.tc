@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ｌｌｌｌｌｌｌｌ</description>
+   <name>TaskInputDepend</name>
+   <tag>TD</tag>
+   <comment></comment>
+   <testCaseGuid>e0cc779d-dd30-4dc5-bcfb-3fb7b4d102b5</testCaseGuid>
+   <variable>
+      <defaultValue>'3'</defaultValue>
+      <description>1:臨場、2:書面、3:株主</description>
+      <id>a408f9a1-f776-4496-adb7-8501dfe4409b</id>
+      <masked>true</masked>
+      <name>MeetType</name>
+   </variable>
+</TestCaseEntity>

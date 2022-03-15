@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>K_checkbox_mailPassWord1</name>
+   <tag></tag>
+   <elementGuidId>a36c4f02-bd18-47e1-82a1-50f6655e7d8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@data-control-name=&quot;MR_書_書面決議提案書ギャラリー&quot;]//div[@aria-posinset=&quot;1&quot;]//input[@appmagic-control=&quot;MR_書_SKTG_パスワードメールチェックボックス&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-control-name=&quot;MR_書_書面決議提案書ギャラリー&quot;]//div[@aria-posinset=&quot;1&quot;]//input[@appmagic-control=&quot;MR_書_SKTG_パスワードメールチェックボックス&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

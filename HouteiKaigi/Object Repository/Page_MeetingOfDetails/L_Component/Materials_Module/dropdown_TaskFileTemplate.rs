@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown_TaskFileTemplate</name>
+   <tag></tag>
+   <elementGuidId>1f15ab76-e74b-4c28-bb9c-cf03e5538d4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class=&quot;drop-content&quot;]//div[text()=&quot;議事録テンプレート&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class=&quot;drop-content&quot;]//div[text()=&quot;議事録テンプレート&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

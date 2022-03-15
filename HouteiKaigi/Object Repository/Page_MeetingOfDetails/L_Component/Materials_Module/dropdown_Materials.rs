@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown_Materials</name>
+   <tag></tag>
+   <elementGuidId>d2444c66-65a5-4261-b61b-a444f786b9b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@data-control-name=&quot;MD_FA_ドロップダウンリスト&quot;]//div[@class=&quot;appmagic-dropdownLabelArrow&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-control-name=&quot;MD_FA_ドロップダウンリスト&quot;]//div[@class=&quot;appmagic-dropdownLabelArrow&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Dev1</name>
+   <tag></tag>
+   <elementGuidId>059e285f-58f1-4ca2-98ae-6b6964447f6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='publishedCanvas']/div/div[2]/div/div/div[3]/div/div/div/div/div[2]/div/div/div/div[2]/div/div/div/div/div/div/button/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.appmagic-button-label.no-focus-outline</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>appmagic-button-label no-focus-outline</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-control-part</name>
+      <type>Main</type>
+      <value>text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>spellcheck</name>
+      <type>Main</type>
+      <value>false</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>inlineEditText: properties.Text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dev開発チーム用会社1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;publishedCanvas&quot;)/div[@class=&quot;app-canvas&quot;]/div[@class=&quot;screen-animation animated&quot;]/div[@class=&quot;canvasContentDiv container_1ej5chb activeScreen&quot;]/div[@class=&quot;container_1f0sgyp-o_O-containerFullSize_5t8a34&quot;]/div[@class=&quot;appmagic-content-control-name appmagic-control-view canvasContentDiv&quot;]/div[@class=&quot;appmagic-borderfill-container&quot;]/div[@class=&quot;appmagic-border-inner&quot;]/div[@class=&quot;container_w3lqqm accessibility-container&quot;]/div[@class=&quot;appmagic-gallery  vertical&quot;]/div[@class=&quot;virtualized-gallery&quot;]/div[1]/div[@class=&quot;react-gallery-items-window&quot;]/div[@class=&quot;virtualized-gallery-item galleryCanvasContentDiv transforms_3hmsj&quot;]/div[@class=&quot;canvasContentDiv container_1vt1y2p&quot;]/div[@class=&quot;container_1f0sgyp&quot;]/div[@class=&quot;appmagic-content-control-name appmagic-control-view canvasContentDiv _vst_&quot;]/div[@class=&quot;appmagic-borderfill-container&quot;]/div[@class=&quot;appmagic-border-inner&quot;]/div[@class=&quot;react-knockout-control&quot;]/div[@class=&quot;appmagic-button-wrapper&quot;]/button[@class=&quot;appmagic-button-container no-focus-outline&quot;]/div[@class=&quot;appmagic-button middle center&quot;]/div[@class=&quot;appmagic-button-label no-focus-outline&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/AccountLogin/Page___ - Power Apps/iframe__fullscreen-app-host</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='publishedCanvas']/div/div[2]/div/div/div[3]/div/div/div/div/div[2]/div/div/div/div[2]/div/div/div/div/div/div/button/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='項目 1 件。選択済み。'])[1]/following::div[10]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='項目 1 を表示'])[1]/following::div[15]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='このテーブルはデータに接続されていません'])[1]/preceding::div[10]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='表示するアイテムがありません'])[1]/preceding::div[11]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dev開発チーム用会社1']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/div</value>
+   </webElementXpaths>
+</WebElementEntity>

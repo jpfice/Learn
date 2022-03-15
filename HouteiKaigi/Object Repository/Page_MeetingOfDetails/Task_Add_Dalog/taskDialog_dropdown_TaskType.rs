@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>taskDialog_dropdown_TaskType</name>
+   <tag></tag>
+   <elementGuidId>070abcd7-2c5c-448c-a20c-fd90bba283a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@data-control-name=&quot;MD_AInfo_議題区分&quot;]//div[@data-control-name=&quot;DataCardValue60&quot;]//div[@class=&quot;appmagic-dropdownLabelArrow&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-control-name=&quot;MD_AInfo_議題区分&quot;]//div[@data-control-name=&quot;DataCardValue60&quot;]//div[@class=&quot;appmagic-dropdownLabelArrow&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

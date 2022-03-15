@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown_Mate</name>
+   <tag></tag>
+   <elementGuidId>30a68bd4-cd8e-400d-8eb1-6e441f83f108</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class=&quot;drop-content&quot;]//div[text()=&quot;資料&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class=&quot;drop-content&quot;]//div[text()=&quot;資料&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>scroll_last</name>
+   <tag></tag>
+   <elementGuidId>48d37fb5-8613-4430-ad54-c283dc51fbab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@data-control-name=&quot;ML_議題一覧&quot;]//div[@id=&quot;dataGrid_315&quot;]//div[text()=&quot;データをロードしています&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-control-name=&quot;ML_議題一覧&quot;]//div[@id=&quot;dataGrid_315&quot;]//div[text()=&quot;データをロードしています&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

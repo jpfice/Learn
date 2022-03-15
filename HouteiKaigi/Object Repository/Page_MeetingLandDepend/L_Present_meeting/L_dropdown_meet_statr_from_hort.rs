@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>L_dropdown_meet_statr_from_hort</name>
+   <tag></tag>
+   <elementGuidId>1d501a06-b2bb-4d71-b94b-98bba80b9956</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@data-control-name=&quot;開催日時From_DataCard2&quot;]//div[@data-control-name=&quot;HourValue2&quot;]//div[@class=&quot;appmagic-dropdownLabelArrow&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-control-name=&quot;開催日時From_DataCard2&quot;]//div[@data-control-name=&quot;HourValue2&quot;]//div[@class=&quot;appmagic-dropdownLabelArrow&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_MeetingLandDepend/iframe/iframe__fullscreen-app-host</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>taskDialog_input_FileAdd</name>
+   <tag></tag>
+   <elementGuidId>f5bb6f74-fc83-4138-adcd-0085e4c0ba38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@data-control-name=&quot;添付ファイル_DataCard5&quot;]//input[@type=&quot;file&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-control-name=&quot;添付ファイル_DataCard5&quot;]//input[@type=&quot;file&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

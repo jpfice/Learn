@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>S_dropdown_filelist</name>
+   <tag></tag>
+   <elementGuidId>beea6333-1bbd-4dc2-b449-abac07ff4017</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@data-control-name=&quot;MD_書_役員ギャラリー&quot;]//div[@aria-posinset=&quot;${GlobalVariable.G_RowNum}&quot;]//div[@data-control-name=&quot;Dropdown2&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-control-name=&quot;MD_書_役員ギャラリー&quot;]//div[@aria-posinset=&quot;${GlobalVariable.G_RowNum}&quot;]//div[@data-control-name=&quot;Dropdown2&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>switch_join</name>
+   <tag></tag>
+   <elementGuidId>78445ec9-2993-4d33-824f-ad3c9fbeac7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@data-control-name=&quot;MD_参加者ギャラリー&quot;]//div[@aria-posinset=&quot;1&quot;]//div[@data-control-name=&quot;MD_参加者_出欠状況&quot;]//div[@class=&quot;appmagic-toggleSwitch-on&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-control-name=&quot;MD_参加者ギャラリー&quot;]//div[@aria-posinset=&quot;1&quot;]//div[@data-control-name=&quot;MD_参加者_出欠状況&quot;]//div[@class=&quot;appmagic-toggleSwitch-on&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

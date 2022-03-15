@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>K_R2_dropdown_fileType</name>
+   <tag></tag>
+   <elementGuidId>d43f4c40-f827-44ae-95ea-8891adaef502</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@data-control-name=&quot;MD_書_株主ギャラリー&quot;]//div[@aria-posinset=&quot;2&quot;]//div[@data-control-name=&quot;Dropdown2_1&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-control-name=&quot;MD_書_株主ギャラリー&quot;]//div[@aria-posinset=&quot;2&quot;]//div[@data-control-name=&quot;Dropdown2_1&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
